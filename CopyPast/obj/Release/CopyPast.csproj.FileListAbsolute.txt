@@ -1,0 +1,5 @@
+C:\Users\druzhinin\Documents\Visual Studio 2015\Projects\CopyPast\CopyPast\bin\Release\CopyPast.exe.config
+C:\Users\druzhinin\Documents\Visual Studio 2015\Projects\CopyPast\CopyPast\bin\Release\CopyPast.exe
+C:\Users\druzhinin\Documents\Visual Studio 2015\Projects\CopyPast\CopyPast\bin\Release\CopyPast.pdb
+C:\Users\druzhinin\Documents\Visual Studio 2015\Projects\CopyPast\CopyPast\obj\Release\CopyPast.exe
+C:\Users\druzhinin\Documents\Visual Studio 2015\Projects\CopyPast\CopyPast\obj\Release\CopyPast.pdb
